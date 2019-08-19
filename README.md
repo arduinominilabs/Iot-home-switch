@@ -80,7 +80,7 @@ En el futuro se le agregaran más features o funcionalidades a nuestro alimentad
 <Facebook> : https://facebook.com/arduinominilabs
 
 ### Keys: 
-•	DIY IoT Home Switch
+• DIY IoT Home Switch
 •	Interruptor comandado por internet
 •	Blynk home switch control
 
