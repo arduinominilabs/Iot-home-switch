@@ -56,11 +56,7 @@ Una vez grabado el programa en el Wemos y haber creado la aplicación en Wemos d
 
 ![](https://github.com/arduinominilabs/Iot-home-switch/blob/master/Installation.JPG)
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=LLrRNSEoZXw" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+Video Youtube: "https://www.youtube.com/watch?v=LLrRNSEoZXw" 
 
 # Conclusiones y Comentarios:
 Bueno esperamos que les guste nuestro nuevo proyecto #iothomeswitch qué básicamente nos permite comandar una llave o interruptor de luz desde nuestra aplicación #blynk en el celular.
